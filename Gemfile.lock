@@ -1,0 +1,15 @@
+GIT
+  remote: https://github.com/gabepolk/pig_latin.git
+  revision: ad2d98b5a90efcca18d9ba580d2e005690f3a880
+  specs:
+    pig_latin (0.0.1)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  pig_latin!
